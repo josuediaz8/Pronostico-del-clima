@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ClimaModelsPlanetasDbContextModelStoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="Forecasts">
+      <EntityTypeMapping TypeName="Clima.Models.PlanetasDbContextModel.Forecasts">
+        <MappingFragment StoreEntitySet="Forecasts">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="dia" ColumnName="dia" />
+          <ScalarProperty Name="clima" ColumnName="clima" />
+          <ScalarProperty Name="coordenada1_X" ColumnName="coordenada1_X" />
+          <ScalarProperty Name="coordenada1_Y" ColumnName="coordenada1_Y" />
+          <ScalarProperty Name="coordenada2_X" ColumnName="coordenada2_X" />
+          <ScalarProperty Name="coordenada2_Y" ColumnName="coordenada2_Y" />
+          <ScalarProperty Name="coordenada3_X" ColumnName="coordenada3_X" />
+          <ScalarProperty Name="coordenada3_Y" ColumnName="coordenada3_Y" />
+          <ScalarProperty Name="perimetro" ColumnName="perimetro" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

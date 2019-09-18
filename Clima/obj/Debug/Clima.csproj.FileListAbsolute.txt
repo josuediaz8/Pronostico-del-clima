@@ -1,0 +1,10 @@
+C:\Users\usuario\Documents\Visual Studio 2013\Projects\Clima\Clima\bin\Debug\Clima.exe.config
+C:\Users\usuario\Documents\Visual Studio 2013\Projects\Clima\Clima\bin\Debug\Clima.exe
+C:\Users\usuario\Documents\Visual Studio 2013\Projects\Clima\Clima\bin\Debug\Clima.pdb
+C:\Users\usuario\Documents\Visual Studio 2013\Projects\Clima\Clima\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Documents\Visual Studio 2013\Projects\Clima\Clima\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Documents\Visual Studio 2013\Projects\Clima\Clima\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Documents\Visual Studio 2013\Projects\Clima\Clima\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Documents\Visual Studio 2013\Projects\Clima\Clima\obj\Debug\Clima.exe
+C:\Users\usuario\Documents\Visual Studio 2013\Projects\Clima\Clima\obj\Debug\Clima.pdb
+C:\Users\usuario\Documents\Visual Studio 2013\Projects\Clima\Clima\obj\Debug\Clima.csprojResolveAssemblyReference.cache
